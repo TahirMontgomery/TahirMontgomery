@@ -24,9 +24,8 @@ A Skilled FullStack JavaScript Developer 🚀 from Tampa, FL. Always working on 
 <br/>
 Stacks I have worked with : Vue+Flask , React+Firebase , React+Express
 <br/>  
-Things I am currently experimenting with : jest , enzyme , typescript, ...
+Things I am currently experimenting with : AI , scraping , Rust, ...
 <br/>
-Want to become a full-time Freelancer 💸 and Blockchain developer 🔐
 </p>
 
 
@@ -35,11 +34,11 @@ Want to become a full-time Freelancer 💸 and Blockchain developer 🔐
 ### ✨ Quick Facts
 
 - 👨🏽‍💻 I’m currently working as a backend developer.
-- 🌱 I’m currently learning Unit-Testing and TypeScript.
+- 🌱 I’m currently learning about AI + Machine learning.
 
-- 💬 Ask me about anything related to JS or Python (And a little bit of blockchain. I'm still learning 😉
+- 💬 Ask me about anything related to JS or Python (And a little bit of AI. I'm still learning 😉
 - 🎿 Hobbies other than coding : 
-  - Music Festival Hopping (Before covid of course)
+  - Music Festival Hopping
   - Playing games.
 - 📫 How to reach me: tahirmontgomery@gmail.com
 
